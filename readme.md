@@ -78,3 +78,7 @@ Which gpus to run experiment on (can be multiple)
 To verify code can run through, limits number of batches which are used to 10
 * --run_adv_attack=False \
 Set to false if you do not want to run adverserial attack after training
+
+## Reference
+
+Adapted from https://github.com/sirluk/sparse_transformers
